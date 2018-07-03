@@ -23,7 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+<img style="float: right;width:200px;height:250px;" src="https://raw.githubusercontent.com/jmcgread/jmcgread.github.io/master/photo/5278d45LR.jpg"> <br>
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
