@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-<img style="float: right;width:200px;height:250px;" src="https://raw.githubusercontent.com/jmcgread/jmcgread.github.io/master/photo/5278d45LR.jpg"> <br>
+<img style="float: right;width:200px;height:250px;" src="https://raw.githubusercontent.com/jmcgread/jmcgread.github.io/master/headshot 1 hartlove.jpg"> <br>
 
 ```
 
